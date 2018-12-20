@@ -1,4 +1,4 @@
-# hello-world-probot
+# Hello-World-probot
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Hello World github app built with probot
 
